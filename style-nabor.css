@@ -1,0 +1,15 @@
+.nabor1{
+	height: 790px;
+	margin-left: 150px;
+	margin-top: 100px;
+}
+.aktiv{
+	height: 250px;
+}
+.header{
+	background-image: url('bc.jpg');
+	height: 2400px;
+	width: 140vw;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	align-items: center;	
